@@ -17,7 +17,7 @@ characteristics of the original data--especially seasonal patterns, daily patter
 
 Image of generated time series:
 
-![Generated vs Real Data]('images/seasonal_diurnal_correlation_with_gen.png')
+![Generated vs Real Data](images/seasonal_diurnal_correlation_with_gen.png)
 
 
 
